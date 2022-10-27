@@ -5,7 +5,7 @@ import unicodedata
 import json
 import os
 import numpy as np
-import umap.umap_ as umap
+#import umap.umap_ as umap
 
 from sklearn.decomposition import PCA
 from sklearn.manifold import TSNE
@@ -66,6 +66,14 @@ def remove_non_ascii(words):
         )
         new_words.append(new_word)
     return new_words
+
+def remove_numbers(words):
+    new_words=[]
+    for word in words:
+        if not(word.isdigit()):
+            new_words.append(word)
+    return new_words
+
 
 
 def replace_numbers(words):
@@ -169,15 +177,15 @@ def reduce_dimensions(
         tsne = TSNE(n_components=output_dimensions, init="pca", random_state=42)
         # compass_embeddings = tsne.fit_transform(compass_vectors)
         embeddings = tsne.fit_transform(vectors)
-    elif typ == "umap":
-        reducer = umap.UMAP(
-            n_components=output_dimensions, transform_seed=42, random_state=42
-        )
-        if fit_on_compass:
-            compass_embeddings = reducer.fit_transform(compass_vectors)
-            embeddings = reducer.transform(vectors)
-        else:
-            embeddings = reducer.fit_transform(vectors)
+    
+    #elif typ == "umap":
+        #reducer = umap.UMAP(
+            #n_components=output_dimensions, transform_seed=42, random_state=42)
+        #if fit_on_compass:
+            #compass_embeddings = reducer.fit_transform(compass_vectors)
+            #embeddings = reducer.transform(vectors)
+        #else:
+            #embeddings = reducer.fit_transform(vectors)
     else:
         raise NotImplementedError(f"No implementation found for `typ`: {typ}.")
     return embeddings
