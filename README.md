@@ -22,9 +22,10 @@ This is the Repo for Computational Semantic Change Course Capstone Prpject
 4. Maja Rudolph and David Blei, 2017. Dynamic Bernoulli Embeddings for Language Evolution. arxiv preprint arxiv:1703.08052.
 ## [evaluation related]
 ### word embedding direct evaluation method
-1. Wang, B., Wang, A., Chen, F., Wang, Y., & Kuo, C. (2019). Evaluating word embedding models: Methods and experimental results. APSIPA Transactions on Signal and Information Processing, 8, E19. doi:10.1017/ATSIP.2019.12
-2. Arianna Betti, Martin Reynaert, Thijs Ossenkoppele, Yvette Oortwijn, Andrew Salway, and Jelke Bloem. 2020. Expert Concept-Modeling Ground Truth Construction for Word Embeddings Evaluation in Concept-Focused Domains. In Proceedings of the 28th International Conference on Computational Linguistics, pages 6690–6702, Barcelona, Spain (Online). International Committee on Computational Linguistics.
-3. https://arxiv.org/pdf/1605.09096.pdf
+1. Wang, B., Wang, A., Chen, F., Wang, Y., & Kuo, C. (2019). Evaluating word embedding models: Methods and experimental results. APSIPA Transactions on Signal and Information Processing, 8, E19. doi:10.1017/ATSIP.2019.12 https://www.cambridge.org/core/services/aop-cambridge-core/content/view/EDF43F837150B94E71DBB36B28B85E79/S204877031900012Xa.pdf/div-class-title-evaluating-word-embedding-models-methods-and-experimental-results-div.pdf [grand general guidelines]
+2. Arianna Betti, Martin Reynaert, Thijs Ossenkoppele, Yvette Oortwijn, Andrew Salway, and Jelke Bloem. 2020. Expert Concept-Modeling Ground Truth Construction for Word Embeddings Evaluation in Concept-Focused Domains. In Proceedings of the 28th International Conference on Computational Linguistics, pages 6690–6702, Barcelona, Spain (Online). International Committee on Computational Linguistics. https://aclanthology.org/2020.coling-main.586.pdf [philosphy, no code available]
+3. https://arxiv.org/pdf/2005.03812.pdf [COMPARATIVE ANALYSIS OF WORD EMBEDDINGS FOR CAPTURING WORD SIMILARITIES]
+4. https://arxiv.org/pdf/1605.09096.pdf [histwords]
 ### use domain specific embedding not as an "end" but applied (e.g. social science prior knowledge/results)
 1. https://bigdata.duke.edu/wp-content/uploads/2022/07/Team-19_Data-Plus-Poster_Final_pdf.pdf
 2. https://arxiv.org/pdf/1711.08412.pdf
