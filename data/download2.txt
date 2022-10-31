@@ -1,0 +1,199 @@
+wget -O 20200705v1/full/pdf_parses/pdf_parses_0.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_0.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_1.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_1.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_10.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_10.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_11.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_11.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_12.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_12.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_13.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_13.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_14.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_14.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_15.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_15.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_16.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_16.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_17.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_17.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_18.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_18.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_19.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_19.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_2.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_2.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_20.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_20.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_21.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_21.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_22.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_22.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_23.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_23.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_24.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_24.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_25.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_25.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_26.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_26.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_27.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_27.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_28.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_28.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_29.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_29.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_3.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_3.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_30.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_30.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_31.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_31.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_32.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_32.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_33.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_33.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_34.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_34.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_35.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_35.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_36.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_36.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_37.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_37.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_38.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_38.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_39.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_39.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_4.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_4.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_40.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_40.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_41.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_41.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_42.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_42.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_43.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_43.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_44.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_44.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_45.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_45.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_46.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_46.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_47.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_47.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_48.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_48.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_49.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_49.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_5.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_5.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_50.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_50.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_51.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_51.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_52.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_52.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_53.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_53.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_54.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_54.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_55.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_55.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_56.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_56.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_57.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_57.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_58.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_58.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_59.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_59.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_6.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_6.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_60.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_60.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_61.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_61.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_62.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_62.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_63.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_63.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_64.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_64.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_65.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_65.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_66.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_66.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_67.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_67.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_68.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_68.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_69.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_69.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_7.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_7.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_70.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_70.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_71.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_71.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_72.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_72.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_73.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_73.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_74.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_74.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_75.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_75.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_76.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_76.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_77.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_77.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_78.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_78.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_79.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_79.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_8.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_8.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_80.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_80.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_81.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_81.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_82.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_82.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_83.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_83.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_84.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_84.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_85.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_85.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_86.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_86.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_87.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_87.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_88.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_88.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_89.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_89.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_9.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_9.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_90.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_90.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_91.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_91.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_92.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_92.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_93.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_93.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_94.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_94.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_95.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_95.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_96.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_96.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_97.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_97.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_98.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_98.jsonl.gz'
+
+wget -O 20200705v1/full/pdf_parses/pdf_parses_99.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/pdf_parses/pdf_parses_99.jsonl.gz'

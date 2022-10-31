@@ -1,0 +1,199 @@
+wget -O 20200705v1/full/metadata/metadata_0.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_0.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_1.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_1.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_10.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_10.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_11.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_11.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_12.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_12.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_13.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_13.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_14.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_14.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_15.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_15.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_16.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_16.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_17.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_17.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_18.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_18.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_19.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_19.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_2.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_2.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_20.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_20.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_21.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_21.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_22.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_22.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_23.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_23.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_24.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_24.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_25.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_25.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_26.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_26.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_27.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_27.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_28.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_28.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_29.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_29.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_3.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_3.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_30.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_30.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_31.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_31.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_32.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_32.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_33.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_33.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_34.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_34.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_35.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_35.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_36.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_36.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_37.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_37.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_38.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_38.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_39.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_39.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_4.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_4.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_40.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_40.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_41.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_41.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_42.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_42.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_43.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_43.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_44.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_44.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_45.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_45.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_46.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_46.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_47.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_47.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_48.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_48.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_49.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_49.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_5.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_5.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_50.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_50.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_51.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_51.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_52.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_52.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_53.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_53.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_54.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_54.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_55.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_55.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_56.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_56.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_57.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_57.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_58.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_58.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_59.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_59.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_6.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_6.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_60.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_60.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_61.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_61.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_62.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_62.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_63.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_63.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_64.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_64.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_65.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_65.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_66.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_66.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_67.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_67.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_68.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_68.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_69.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_69.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_7.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_7.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_70.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_70.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_71.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_71.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_72.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_72.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_73.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_73.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_74.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_74.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_75.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_75.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_76.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_76.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_77.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_77.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_78.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_78.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_79.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_79.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_8.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_8.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_80.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_80.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_81.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_81.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_82.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_82.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_83.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_83.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_84.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_84.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_85.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_85.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_86.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_86.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_87.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_87.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_88.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_88.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_89.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_89.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_9.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_9.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_90.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_90.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_91.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_91.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_92.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_92.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_93.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_93.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_94.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_94.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_95.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_95.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_96.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_96.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_97.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_97.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_98.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_98.jsonl.gz'
+
+wget -O 20200705v1/full/metadata/metadata_99.jsonl.gz 'https://ai2-s2-s2orc.s3-us-west-2.amazonaws.com/20200705v1/full/metadata/metadata_99.jsonl.gz'
