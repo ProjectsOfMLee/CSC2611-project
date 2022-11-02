@@ -30,3 +30,7 @@ This is the Repo for Computational Semantic Change Course Capstone Prpject
 1. https://bigdata.duke.edu/wp-content/uploads/2022/07/Team-19_Data-Plus-Poster_Final_pdf.pdf
 2. https://arxiv.org/pdf/1711.08412.pdf
 3. https://aclanthology.org/D15-1036.pdf
+### use eval methods from lab, visualize & compare the sims/clusters
+1. first - last
+2. max/min/mean/median/...
+3. cluster & jaccard
