@@ -5,6 +5,7 @@ import unicodedata
 import json
 import os
 import numpy as np
+import string
 #import umap.umap_ as umap
 
 from sklearn.decomposition import PCA
@@ -18,7 +19,7 @@ from nltk.tokenize import word_tokenize
 nltk.download("stopwords")
 nltk.download("punkt")
 nltk.download("wordnet")
-
+nltk.download('omw-1.4')
 
 # noise removal
 def strip_html(text):
@@ -36,16 +37,10 @@ def replace_contractions(text):
 
 
 def remove_punctuation(text):
-
-    for punct in "/-'":
-        text = text.replace(punct, " ")
-
-    for punct in "&":
-        text = text.replace(punct, "and")
-
-    for punct in "?!.,\"#$%'()*+-/:;<=>@[\\]^_`{|}~" + "“”’":
-        text = text.replace(punct, "")
-    return text
+    
+    out=text.translate(str.maketrans('', '', string.punctuation))
+    
+    return out
 
 
 # tokenisation
