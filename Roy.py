@@ -1,4 +1,5 @@
 from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.neighbors import NearestNeighbors
 import os
 import pandas as pd
 from nltk.util import ngrams
@@ -12,7 +13,6 @@ import pickle
 from gensim.parsing.preprocessing import remove_stopwords
 from tqdm import tqdm,trange
 
-data_path = "./data_augmented/"
 #augment_data = pickle.load(open("extra_s2orc.pickle","rb"))
 #for yr in range(1994,2022):
     #Data_Augmentation(year=yr)
@@ -93,8 +93,8 @@ def Get_sentences(year:str):
 
 def Data_Augmentation(year:int):
 
-    file = open(f"./data/{year}.txt")
-    lines = file.read()
+    file1 = open(f"./data/{year}.txt")
+    lines = file1.read()
     extra = " ".join(augment_data[year])
     extra = remove_punctuation(extra)
     extra = to_lower_case(extra)
@@ -106,7 +106,7 @@ def Data_Augmentation(year:int):
     out_file = open(f"./data_augmented/{year}.txt", "w",encoding='utf-8')
     out_file.write(lines)
     
-    file.close()
+    file1.close()
     out_file.close()
 
 def Get_common_words(threshold):
@@ -120,6 +120,7 @@ def Get_common_words(threshold):
         temp = [k for k, v in Build_freq_dict(year=f"{yr}").items() if v > threshold]
         common_words.intersection_update(temp)
     
+    common_words = sorted(common_words)
     return common_words
 
 def co_occurrence(sentences, window_size):
@@ -167,9 +168,9 @@ def construct_ppmi(df):
     
     return df
 
-def get_ppmi_embedding(word,year,window_size):
+def get_ppmi_embedding(year,window_size):
     '''
-    get ppmi embedding for given word for the given year
+    get ppmi embedding for given word for the text in given year
     '''
     text = open(data_path+f"{year}.txt","r",encoding='utf-8').read()
     df_cooccurrence = co_occurrence(text, window_size=4)
@@ -179,12 +180,32 @@ def get_ppmi_embedding(word,year,window_size):
 
     df_ppmi=construct_ppmi(df_cooccurrence).sort_index(ascending=True)
     df_ppmi = df_ppmi.reindex(sorted(df_ppmi.columns), axis=1)
-    return list(df_ppmi[word])
+    return df_ppmi
 
+def get_nearest_neighbor(word,ppmi_matrix,k):
+    # This is a helper function which gets k nearest neighbor words
+    if (word not in common_words):
+        return []
+    
+    matrix_year = []
+    for wd in common_words:
+        matrix_year.append(list(ppmi_matrix[wd]))
+    matrix_year = np.array(matrix_year)
+
+    knn_temp = NearestNeighbors(n_neighbors=k)
+    knn_temp.fit(matrix_year)
+
+    vector_temp = np.asarray(list(ppmi_matrix[word])).reshape(1, -1)
+    neighbor_idx = knn_temp.kneighbors(vector_temp,k,return_distance=True)
+    #print(neighbor_idx)
+    
+    ret = [common_words[i] for i in list(neighbor_idx)[0]]
+    ret.remove(word)
+    return ret
 
 if __name__ == "__main__":
-    common_words=Get_common_words(threshold=100)
+    common_words=Get_common_words(threshold=20)
     print(common_words)
-    print(get_ppmi_embedding(word='learn',year=1994,window_size=4))
-    print(get_ppmi_embedding(word='learn',year=2020,window_size=4))
+    print(get_nearest_neighbor(word="deep",ppmi_matrix=ppmi_1994,k=6))
+    
     
