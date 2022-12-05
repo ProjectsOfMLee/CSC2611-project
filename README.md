@@ -1,7 +1,7 @@
 # CSC2611-project
 This is the Repo for Computational Semantic Change Course Capstone Prpject
 
-#Reference List
+# Previous References (Deprecated)
 
 1. Learning Dynamic Contextualised Embedding (2022) https://arxiv.org/pdf/2208.10734.pdf 
 2. Di Carlo, V., Bianchi, F., & Palmonari, M. (2019). Training Temporal Word Embeddings with a Compass. Proceedings of the AAAI Conference on Artificial Intelligence, 33(01), 6326-6334. https://doi.org/10.1609/aaai.v33i01.33016326 
