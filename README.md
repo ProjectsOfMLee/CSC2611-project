@@ -1,6 +1,6 @@
 # CSC2611-project
-This is the Repo for Computational Semantic Change Course Capstone Prpject
-
+This is the Repo for Computational Semantic Change Course Capstone Project
+For the full datasets and trained word embeddings / models, contact: mhorusli@cs.toronto.edu
 # Previous References (Deprecated)
 
 1. Learning Dynamic Contextualised Embedding (2022) https://arxiv.org/pdf/2208.10734.pdf 
