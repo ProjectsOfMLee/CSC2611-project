@@ -1,6 +1,8 @@
 # CSC2611-project
 This is the Repo for Computational Semantic Change Course Capstone Project.
 
+Full Presentation Slides: https://docs.google.com/presentation/d/1J9_k48yt2Msn836-zUJ1p2kl1bj13QsNrtHj_hC_9E4/edit?usp=sharing
+
 For the full datasets and trained word embeddings / models, contact: mhorusli@cs.toronto.edu
 # Previous References (Deprecated)
 
